@@ -5,10 +5,8 @@ Estudio ingeniería de sistemas, ahora trabajo en mi proyecto de grado el cual u
 
 En mis tiempos libre programo y hago cosas con una Raspberry, próximamenente se podrán ver algunos repos con mis proyectos.
 
-Las tecnologias que veran en mi perfil son: :arrow_heading_down: 
-- Go
-- Angular
-- Python
+Las tecnologias que veran en mi perfil son :arrow_heading_down: 
+
 
 <p aling="center"> 
 <img src="/imagenes%20readme/Golang.png" width="100"/>
