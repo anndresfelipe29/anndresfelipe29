@@ -14,6 +14,7 @@ Las tecnologias que veran en mi perfil son :arrow_heading_down:
 <img src="/imagenes%20readme/js.png" width="100"/>
 <img src="/imagenes%20readme/ts.png" width="100"/>
 <img src="/imagenes%20readme/solidity.svg" width="100"/>
+<img src="/imagenes%20readme/python.png" width="100"/>
 </p>
 
 
