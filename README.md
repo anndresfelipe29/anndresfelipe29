@@ -1,6 +1,6 @@
 ### ¡Hola, soy Felipe! :octocat:
 
-Estudio ingeniería de sistemas y estoy cerca a graduarme, ahora trabajo en mi proyecto de grado el cual usa la tecnología Blockchain.
+Estudio ingeniería de sistemas, ahora trabajo en mi proyecto de grado el cual usa la tecnología Blockchain.
 
 
 En mis tiempos libre programo y hago cosas con una Raspberry, próximamenente se podrán ver algunos repos con mis proyectos.
