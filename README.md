@@ -1,14 +1,25 @@
-### ¡Hola!
+### ¡Hola, soy Felipe! :octocat:
 
-Soy un estudiante de ingenieria de sistemas proximo a graduarme, ahora trabajo en mi proyecto de grado el cual usa blockchain.
+Estudio ingeniería de sistemas y estoy cerca a graduarme, ahora trabajo en mi proyecto de grado el cual usa la tecnología Blockchain.
 
 
-En mis tiempos libre programo y hago cosas con una raspberry, proximamenente se podran ver algunos repos con mis proyectos.
+En mis tiempos libre programo y hago cosas con una Raspberry, próximamenente se podrán ver algunos repos con mis proyectos.
 
-Las tecnologias que veran en mi perfil son:
+Las tecnologias que veran en mi perfil son: :arrow_heading_down: 
 - Go
 - Angular
 - Python
+
+<p aling="center"> 
+<img src="/imagenes%20readme/Golang.png" width="100"/>
+<img src="/imagenes%20readme/angular.png" width="100"/>
+<img src="/imagenes%20readme/js.png" width="100"/>
+<img src="/imagenes%20readme/ts.png" width="100"/>
+</p>
+
+
+
+
 
 <!--
 **anndresfelipe29/anndresfelipe29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
